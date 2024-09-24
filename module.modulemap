@@ -1,0 +1,5 @@
+
+module llama {
+    header "LlamaWrapper.h"
+    export *
+}
